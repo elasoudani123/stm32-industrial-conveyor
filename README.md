@@ -1,7 +1,6 @@
 # STM32-Based Industrial Conveyor Control System
 
-> Independent Embedded Systems Project — Legacy PLC Analysis & Microcontroller-Based Modernization
-
+> Independent Embedded Systems Project 
 ## Overview
 
 This project explores the analysis and modernization of an existing industrial conveyor control system.
